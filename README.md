@@ -1,1 +1,1 @@
-# Flask_project
+React(first app) -- "Counter application"
